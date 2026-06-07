@@ -16,17 +16,22 @@ production APIs and RAG-powered applications.
   **99% accuracy · 99% precision · 98% recall · 98% F1**
   Built with FastAPI, Scikit-learn, ChromaDB, and a custom frontend.
 
-- **N-ATLAS Multilingual Tourism Assistant**
-  Integrated the N-ATLAS multilingual model with RAG and LCEL to deliver
-  context-aware tourism information across languages.
+- **[Personal RAG Assistant](https://github.com/KudoroEsther/Personal_RAG)**
+  End-to-end RAG system built with LangChain and ChromaDB that answers
+  questions about my professional background by retrieving from personal
+  LinkedIn and GitHub documents, with persistent vector storage and
+  conversational memory.
+  Built with LangChain, ChromaDB, LCEL, FastAPI, and OpenAI.
 
+  
 - **[LangGraph Tax Query Agent](https://github.com/KudoroEsther/Tax_Project)**
   Designed and implemented a LangGraph-based agent workflow that conditionally
   retrieves relevant tax content based on user intent.
 
-- **Chicago Crime Pattern Analysis**
-  Performed EDA on 7M+ rows × 22 columns of Chicago crime data to surface
-  insights on crime patterns, hotspots, and temporal trends.
+- **N-ATLAS Multilingual Tourism Assistant**
+  Integrated the N-ATLAS multilingual model with RAG and LCEL to deliver
+  context-aware tourism information across languages.
+
 
 ---
 
